@@ -9,7 +9,7 @@ Thanks to one of Father's friends, who plants and sells pomelos for years, I wro
 
 ==========
 
-There features in this website are listed below.
+The features in this website are listed below.
 
 1.index
   1. image slides
