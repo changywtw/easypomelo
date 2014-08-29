@@ -12,19 +12,19 @@ Thanks to one of Father's friends, who plants and sells pomelos for years, I wro
 The features in this website are listed below.
 
 1. index
-  (1) image slides
-  (2) news anouncements
-  (3) greeting passage
+  1. image slides
+  2. news anouncements
+  3. greeting passage
 
 2. introduction
-  (1) orchard
-  (2) product
+  1. orchard
+  2. product
   
 3. blogs
 
 4. orders
-  (1) placing order online
-  (2) inquiry
+  1. placing order online
+  2. inquiry
 
 5. Q & A
 
