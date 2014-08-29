@@ -29,5 +29,5 @@ The features in this website are listed below.
 5. Q & A
 6. message board
 
-All the context of those pages can be set up in the backend management system.
+All the context of those pages can be set up in the backend content management system.
 
