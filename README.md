@@ -11,7 +11,7 @@ Thanks to one of Father's friends, who plants and sells pomelos for years, I wro
 
 The features in this website are listed below.
 
-1.index
+1. index
   (1) image slides
   (2) news anouncements
   (3) greeting passage
